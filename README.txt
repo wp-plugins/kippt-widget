@@ -4,7 +4,7 @@ Donate link: http://helsinkipromo.com/
 Tags: widgets, automatic, social bookmarking
 Requires at least: unknown
 Tested up to: 3.4.1
-Stable tag: trunk
+Stable tag: 0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
